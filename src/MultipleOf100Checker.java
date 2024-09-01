@@ -11,9 +11,9 @@ public class MultipleOf100Checker {
 
         // Check if the number is a multiple of 100
         if (number % 100 == 0) {
-            System.out.println(number + " is a multiple of 100.");
+            System.out.println("Multiple of 100.");
         } else {
-            System.out.println(number + " is not a multiple of 100.");
+            System.out.println("Not a multiple of 100.");
         }
 
         // Close the scanner
