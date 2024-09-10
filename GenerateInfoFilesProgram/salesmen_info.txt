@@ -1,5 +1,0 @@
-ID1;12345678;Salesman1;Surname1
-ID2;12345678;Salesman2;Surname2
-ID3;12345678;Salesman3;Surname3
-ID4;12345678;Salesman4;Surname4
-ID5;12345678;Salesman5;Surname5
